@@ -1,0 +1,6 @@
+*.keystore
+*.sw*
+platforms/^.*
+node_modules
+*.log
+.cordova
